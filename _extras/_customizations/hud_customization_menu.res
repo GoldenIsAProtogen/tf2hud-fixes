@@ -273,7 +273,7 @@
 				"tall"			"32"
 				"visible"		"1"
 				"enabled"		"1"
-				"image"			"../vgui/replay/thumbnails/button_hud"
+				"image"			"replay/thumbnails/button_hud"
 				"scaleImage"	"1"
 			}
 		}
